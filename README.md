@@ -46,3 +46,25 @@ The dataset comprises 20,000 hotel reviews from TripAdvisor, offering insights i
 - Summary of common negative themes (e.g., service issues, cleanliness concerns) to help hotel management address customer dissatisfaction.
 
 ---
+## Crime Against Women
+
+### Introduction to the Dataset
+This project analyzes crimes against women in India, using a dataset sourced from Kaggle. The dataset categorizes various types of crimes, providing insights into trends, geographical distribution, and patterns of offenses over the years.
+
+### Objective
+Perform Exploratory Data Analysis (EDA) to identify trends in crimes against women.
+Categorize and analyze different types of crimes, such as domestic violence, sexual harassment, and dowry-related offenses.
+Visualize crime hotspots and trends over time to aid awareness and policy recommendations.
+
+### Methodology
+Data Cleaning & Preprocessing: Handled missing values, normalized categorical variables, and ensured dataset consistency.
+Descriptive Statistics: Analyzed crime distribution across states, years, and categories.
+Visualizations: Created heatmaps, bar charts, and line graphs to highlight crime trends and regional disparities.
+Output
+
+### Tools & Libraries
+Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Google Collab: Used for analysis and visualization
+
+### Conclusion
+This project provides data-driven insights into crimes against women in India, supporting awareness initiatives and informing policymakers to implement better safety measures.
